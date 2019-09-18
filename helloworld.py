@@ -1,3 +1,3 @@
 
 print ("hello word")
-print (" second line")
+print ("hello")
