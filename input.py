@@ -1,2 +1,5 @@
 name = input('what is your name? ')
-print ('hello ' + name)
+birth_year = input('Birth year: ')
+age = 2019 - int(birth_year)
+age1 = str(age)
+print ('hello ' + name + ' your age is ' + age1)
